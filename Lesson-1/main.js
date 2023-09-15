@@ -79,6 +79,3 @@ prompt(age)
 console.log(middleName+lastName+age)
 
 
-
-
-
